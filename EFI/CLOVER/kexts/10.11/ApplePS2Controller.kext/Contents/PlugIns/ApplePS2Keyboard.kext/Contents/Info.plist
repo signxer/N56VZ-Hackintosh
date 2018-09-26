@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12F33</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>ApplePS2Keyboard</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ApplePS2Keyboard</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ApplePS2Keyboard</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.8.3</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.8.3</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvmgcc42</string>
+	<key>DTPlatformBuild</key>
+	<string>4H1503</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11E52</string>
+	<key>DTSDKName</key>
+	<string>macosx10.7</string>
+	<key>DTXcode</key>
+	<string>0463</string>
+	<key>DTXcodeBuild</key>
+	<string>4H1503</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>ApplePS2Keyboard</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.ApplePS2Keyboard</string>
+			<key>Disable NumLock LED</key>
+			<false/>
+			<key>Disable right Context menu key</key>
+			<false/>
+			<key>Fn Keys</key>
+			<dict>
+				<key>BrightnessDown</key>
+				<string>F5</string>
+				<key>BrightnessUp</key>
+				<string>F6</string>
+				<key>Launchpad</key>
+				<string>F4</string>
+				<key>MediaNext</key>
+				<string>ArrowRight</string>
+				<key>MediaPlayPause</key>
+				<string>ArrowDown</string>
+				<key>MediaPrevious</key>
+				<string>ArrowLeft</string>
+				<key>Misson Control</key>
+				<string>F3</string>
+				<key>SleepDisplay</key>
+				<string>F7</string>
+				<key>Touchpad</key>
+				<string>F9</string>
+				<key>VideoMirror</key>
+				<string>F8</string>
+				<key>VolumeDown</key>
+				<string>F11</string>
+				<key>VolumeMute</key>
+				<string>F10</string>
+				<key>VolumeUp</key>
+				<string>F12</string>
+			</dict>
+			<key>Fn Keys Apple</key>
+			<dict>
+				<key>BrightnessDown</key>
+				<string>F1</string>
+				<key>BrightnessUp</key>
+				<string>F2</string>
+				<key>Launchpad</key>
+				<string>F4</string>
+				<key>MediaNext</key>
+				<string>F9</string>
+				<key>MediaPlayPause</key>
+				<string>F8</string>
+				<key>MediaPrevious</key>
+				<string>F7</string>
+				<key>Misson Control</key>
+				<string>F3</string>
+				<key>SleepDisplay</key>
+				<string>F5</string>
+				<key>Touchpad</key>
+				<string>Pause</string>
+				<key>VideoMirror</key>
+				<string>F6</string>
+				<key>VolumeDown</key>
+				<string>F11</string>
+				<key>VolumeMute</key>
+				<string>F10</string>
+				<key>VolumeUp</key>
+				<string>F12</string>
+			</dict>
+			<key>Fnkeys Mode</key>
+			<integer>1</integer>
+			<key>IOClass</key>
+			<string>ApplePS2Keyboard</string>
+			<key>IOProviderClass</key>
+			<string>ApplePS2KeyboardDevice</string>
+			<key>Keyboard type (ID)</key>
+			<integer>27</integer>
+			<key>Make Right Context Menu key into windows</key>
+			<false/>
+			<key>Make capslock into control</key>
+			<false/>
+			<key>Swap alt and windows key</key>
+			<true/>
+			<key>Use ISO Layout</key>
+			<false/>
+			<key>Using AsusBacklight Driver</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2012 - 2013 Apple, EMlyDinEsH(OSXLatitude). All rights reserved.</string>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.ApplePS2Controller</key>
+		<string>2.8.3</string>
+		<key>com.apple.iokit.IOHIDFamily</key>
+		<string>1.0b1</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>7.0</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>8.0d0</string>
+		<key>com.apple.kpi.mach</key>
+		<string>8.0d0</string>
+	</dict>
+	<key>OSBundleRequired</key>
+	<string>Console</string>
+</dict>
+</plist>
