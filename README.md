@@ -12,18 +12,13 @@ If your laptop model and specifications are the same as mine, my EFI folder shou
 **Networking** BCM94352HMB (I replaced my original wireless card)
 
 ## Status
-**Graphic** HD4000 Working/GT 650M NOT Working
-
-**Audio** Working
-
-**Web Camera** Working
-
-**Microphone** Working
-
-**Wired network** Working
-
-**Wireless network** Working (By replacing BCM94352HMB)
-
-**Sleep/Wake** Working 
-
-**Battery Status** Working
+| Feature | Status |
+| ------ | ------ |
+| **Graphic** | HD4000 Working/GT 650M NOT Working |
+| **Audio** | Working |
+| **Web Camera** | Working |
+| **Microphone** | Working |
+| **Wired network** | Working |
+| **Wireless network** | Working by replacing BCM94352HMB) |
+| **Sleep/Wake** | Working |
+| **Battery Status** | Working |
